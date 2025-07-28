@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "The backend is configured to allow all origins with:",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^2.2.0",
@@ -24,5 +24,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassaanAwais777/healthifyme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HassaanAwais777/healthifyme/issues"
+  },
+  "homepage": "https://github.com/HassaanAwais777/healthifyme#readme"
 }
